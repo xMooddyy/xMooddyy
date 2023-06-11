@@ -12,7 +12,7 @@
       <img src="https://github-readme-stats.vercel.app/api/?username=xmooddyy&title_color=4F8CC9&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&enable_animations=true" />
     </td>
         <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmooddyy&show_icons=true&count_private=true&enable_animations=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmooddyy&show_icons=true&count_private=true&enable_animations=true&layout=compact" />
     </td>
   </tr>
 </p>
