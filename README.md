@@ -2,7 +2,7 @@
 
 <br />
 <a href="https://discord.com/users/413834975347998720">
-    <img src="https://discord.c99.nl/widget/theme-3/413834975347998720.png" />
+    <img src="https://discord.c99.nl/widget/theme-2/413834975347998720.png" />
 </a>
 
 <br />
