@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm ahmood</h1>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Welcome+to+ahmood's+profile!;Typescript+%E2%99%A5;Passionate+Typescript+developer" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Welcome+to+ahmood's+profile!;Self-taught+Typescript+Developer;Discord+bot+specialist;Open+for+commissions" alt="Typing SVG" /></a></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=xmooddyy&label=Profile%20views&color=0e75b6&style=flat" alt="xmooddyy" /> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=xmooddyy&label=Profile%20views&color=0e75b6&style=flat" alt="xmooddyy" />
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fahmood-dev.xyz&label=portfolio" />
+</p>
 
 - 🔭 I’m currently working on **different commissions**
 
@@ -56,10 +59,14 @@
   </tbody>
 </table>
 
-<h2 align="center">Github Stats 📊</h2>
+<h2 align="center">📊 Github Stats</h2>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xmooddyy&show_icons=true&theme=dark" alt="xmooddyy" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xmooddyy&show_icons=true&theme=tokyonight&locale=en" alt="xmooddyy" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xmooddyy&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="xmooddyy" /></p>
+
+<h2 align="center">📃 Random Quote</h2>
+
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /></p>
