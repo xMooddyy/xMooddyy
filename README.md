@@ -3,7 +3,7 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=xmooddyy&label=Profile%20views&color=0e75b6&style=flat" alt="xmooddyy" />
-<img src="https://img.shields.io/website?url=https%3A%2F%2Fahmood-dev.xyz&label=portfolio" />
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fahmood.xyz&label=portfolio" />
 </p>
 
 - 🔭 I’m currently working on **different commissions**
