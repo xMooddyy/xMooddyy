@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Discord bots**
 
-- 👨‍💻 All of my projects are available at [https://ahmood.xyz](https://ahmood-dev.xyz)
+- 👨‍💻 All of my projects are available at [https://ahmood.xyz](https://ahmood.xyz)
 
 - 💬 Ask me about **Discord bots, typescript, javascript**
 
